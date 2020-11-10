@@ -12,6 +12,7 @@
 ### Data Observations:
 
 1. Average tumor volumes range from a low of 40.2 (Ramicane drug regimen) to a high of 55.2 (Ketapril drug regimen).
+
 ![Table](https://github.com/bking3372/The-Power-of-Plots/blob/master/images/Summary_Table.PNG)
 
 2. There is an equal distribution of male and female mice in the study.
@@ -19,6 +20,7 @@
 ![Pie Chart](https://github.com/bking3372/The-Power-of-Plots/blob/master/images/PieChart_Gender.PNG)
 
 3. There is a strong, positive correlation between mouse weight and the average tumor volume for the Capomulin drug regimen.
+
 ![ATV Weight](https://github.com/bking3372/The-Power-of-Plots/blob/master/images/TVbyWeight.PNG)
 
 
